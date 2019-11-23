@@ -1,2 +1,2 @@
 file in first branch
-modified
+modified modifed in master
